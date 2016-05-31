@@ -1,5 +1,5 @@
 let saludo = `hola
 Mundo
-como esta`;
+como esta.`;
 
 console.log(saludo);
